@@ -32,7 +32,7 @@ public class MainActivity extends ActionBarActivity {
     private String[] myDataset;
 
     private static String MY_API_KEY = "a04019a07b2ef5b5dd3a91aea7a99f54";
-    private String api_url = "http://muslimsalat.com";
+    private static String api_url = "http://muslimsalat.com";
     private RestAdapter restAdapter;
     private RetrofitInterface retrofitInterface;
 
