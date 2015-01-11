@@ -1,4 +1,4 @@
-# Android5Demo
+# Android5RetrofitDemo
 ####Demo using Retrofit to fetch Islamic prayer times from an API.
 
 The API Key is included, but if you insist to create your own, head to [here](http://muslimsalat.com/api/).
